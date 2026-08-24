@@ -66,7 +66,8 @@
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/10BB0/func_80011864.s")
 
-#pragma GLOBAL_ASM("asm/us/nonmatchings/10BB0/func_80011A40.s")
+void func_80011A40(s32 arg0) {
+}
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/10BB0/func_80011A48.s")
 
