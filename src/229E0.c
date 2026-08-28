@@ -17,9 +17,9 @@
 #pragma GLOBAL_ASM("asm/us/nonmatchings/229E0/func_8002260C.s")
 #endif
 
-#ifdef VERSION_US
-#pragma GLOBAL_ASM("asm/us/nonmatchings/229E0/func_8002263C.s")
-#endif
+s32 func_8002263C(void) {
+    return 0x61;
+}
 
 #ifdef VERSION_US
 #pragma GLOBAL_ASM("asm/us/nonmatchings/229E0/func_80022644.s")
