@@ -8,7 +8,9 @@
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/6DEC0/func_8006D430.s")
 
-#pragma GLOBAL_ASM("asm/us/nonmatchings/6DEC0/func_8006D438.s")
+void func_8006D438(s32 arg0) {
+
+}
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/6DEC0/func_8006D440.s")
 
