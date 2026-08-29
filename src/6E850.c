@@ -215,9 +215,9 @@ void func_8006DE94(void) {
 void func_800711A8(void) {
 }
 
-#ifdef VERSION_US
-#pragma GLOBAL_ASM("asm/us/nonmatchings/6E850/func_800711B0.s")
-#endif
+s32 func_800711B0(void) {
+    return 0;
+}
 
 #ifdef VERSION_US
 #pragma GLOBAL_ASM("asm/us/nonmatchings/6E850/func_800711B8.s")
